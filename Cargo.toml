@@ -1,0 +1,11 @@
+[package]
+name = "rlp"
+version = "0.1.0"
+edition = "2021"
+description = "Recursive Length Prefix encoding and decoding, no dependencies"
+license = "MIT"
+repository = "https://github.com/yuniyunanie250-lgtm/rlp"
+keywords = ["ethereum", "evm", "rlp"]
+categories = ["cryptography::cryptocurrencies"]
+
+[dependencies]
